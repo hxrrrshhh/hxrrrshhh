@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Sharma</h1>
-<h3 align="center">DevOps & Linux Enthusiast | BCA Student | Tech Explorer</h3>
+<h3 align="center">DevOps & Linux Enthusiast</h3>
 
 ---
 
@@ -22,8 +22,6 @@
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Bash](https://img.shields.io/badge/Bash-%2312100E.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white) 
@@ -33,12 +31,5 @@
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white) 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-3C78D8.svg?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hxrrrshhh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hxrrrshhh&theme=dark&hide_border=false&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hxrrrshhh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
